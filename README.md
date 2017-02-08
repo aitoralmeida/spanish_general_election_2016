@@ -66,4 +66,5 @@ URL: https://github.com/aitoralmeida/spanish_general_election_2016/
 
 Take a look at our other datasets:
 *  Political party and candidate tweets for the campaign period of the 2015 Spanish general election: https://github.com/aitoralmeida/spanish_general_election_2015
+* Tweets for the campaign period of the 2014 European Parliament election: https://github.com/aitoralmeida/european_parliament_election_2014
 
