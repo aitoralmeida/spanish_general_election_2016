@@ -67,6 +67,8 @@ URL: https://github.com/aitoralmeida/spanish_general_election_2016/
 ## Other datasets
 
 Take a look at our other datasets:
+* City4Age Behaviour dataset: https://zenodo.org/record/2602652#.XJtz26SkGUl
+* Spanish 3B words Word2Vec Embeddings: https://zenodo.org/record/1155474#.XJt0K6SkGUk
 *  Political party and candidate tweets for the campaign period of the 2015 Spanish general election: https://github.com/aitoralmeida/spanish_general_election_2015
 * Tweets for the campaign period of the 2014 European Parliament election: https://github.com/aitoralmeida/european_parliament_election_2014
 
