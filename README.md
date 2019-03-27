@@ -58,6 +58,8 @@ The tweet_id and the username can be used to recover the tweet content, and the 
 
 Please, use the following reference if you use this dataset for your research:
 
+Bilbao-Jayo, A., & Almeida, A. (2018). Automatic political discourse analysis with multi-scale convolutional neural networks and contextual data. International Journal of Distributed Sensor Networks, 14(11), 1550147718811827.
+
 Aitor Almeida, Pablo Orduña, Aritz Bilbao. 
 Party and candidate tweets for the campaign period of the 2016 Spanish general election. 
 URL: https://github.com/aitoralmeida/spanish_general_election_2016/
